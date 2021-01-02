@@ -15,3 +15,17 @@ https://www.guru99.com/angularjs-first-program.html
 AngularJS Controller
 https://www.guru99.com/angularjs-controller.html
 
+## Day 2
+
+### Lesson 4
+What is $Scope in AngularJS?
+https://www.guru99.com/angularjs-scope.html
+ 
+### Lesson 5
+AngularJS ng-repeat Directive
+https://www.guru99.com/angularjs-ng-repeat.html
+ 
+### Lesson 6
+How to use "ng-model" in AngularJS
+https://www.guru99.com/ng-model-angularjs.html
+
