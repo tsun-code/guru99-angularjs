@@ -1,6 +1,6 @@
-# guru99-angularjs
+# Guru99 - AngularJS Tutorial for Beginners: Learn AngularJS in 7 Days!
 
-This repository recording the [7 Days AngularJS Tutorials](https://www.guru99.com/angularjs-tutorial.html) from Guru99.
+This repository is for recording the [7 Days AngularJS Tutorials](https://www.guru99.com/angularjs-tutorial.html) from Guru99.
 
 ## Day 1
 ### Lesson 1
