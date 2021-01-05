@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta chrset="UTF 8">
+	<title>Event Registration</title>
+	<link rel="stylesheet" href="css/bootstrap.css"/>
+	<script src="https://code.angularjs.org/1.6.9/angular.js"></script>
+</head>
+<body >
+<h1> Guru99 Global Event</h1>
+
+<div ng-app="DemoApp" ng-controller="DemoCtrl">
+	<form>
+		&nbsp;&nbsp;&nbsp;Topic Description:<br> <br>
+		&nbsp;&nbsp;&nbsp;
+        
+		Name : <input type="text" ng-model="pname"><br>
+		&nbsp;&nbsp;&nbsp;
+		Topic : <br>&nbsp;&nbsp;&nbsp;
+		<input type="checkbox" ng-model="Topic.Controller">Controller<br>&nbsp;&nbsp;&nbsp;
+		<input type="checkbox" ng-model="Topic.Models">Models
+	</form>
+	</div>
+
+<script>
+	var app = angular.module('DemoApp',[]);
+	app.controller('DemoCtrl', function($scope){
+		$scope.pname="Guru99";
+        
+		$scope.Topic =
+		{
+			Controller:true,
+			Models:false
+		};     });
+</script>
+
+</body>
+</html>
