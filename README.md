@@ -29,3 +29,17 @@ https://www.guru99.com/angularjs-ng-repeat.html
 How to use "ng-model" in AngularJS
 https://www.guru99.com/ng-model-angularjs.html
 
+
+## Day 3
+
+### Lesson 7
+AngularJS Views Tutorial
+https://www.guru99.com/angularjs-views.html
+ 
+### Lesson 8
+AngularJS Expressions – Numbers,Strings,Objects,Array,$eval
+https://www.guru99.com/angularjs-expressions.html
+ 
+### Lesson 9
+AngularJS Filter Example
+https://www.guru99.com/angularjs-filter.html
