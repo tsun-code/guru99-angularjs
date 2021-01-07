@@ -43,3 +43,17 @@ https://www.guru99.com/angularjs-expressions.html
 ### Lesson 9
 AngularJS Filter Example
 https://www.guru99.com/angularjs-filter.html
+
+## Day 4
+
+### Lesson 10
+AngularJS Custom Filter with Example
+https://www.guru99.com/angularjs-custom-filter.html
+ 
+### Lesson 11
+AngularJS Directive with Example
+https://www.guru99.com/angularjs-directive.html
+
+ ### Lesson 12
+Angularjs CUSTOM Directive Example
+https://www.guru99.com/angularjs-custom-directive.html
