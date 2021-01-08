@@ -57,3 +57,35 @@ https://www.guru99.com/angularjs-directive.html
  ### Lesson 12
 Angularjs CUSTOM Directive Example
 https://www.guru99.com/angularjs-custom-directive.html
+
+## Day 5
+
+### Lesson 13
+AngularJS Module
+https://www.guru99.com/angularjs-module.html
+
+### Lesson 14
+AngularJS Events
+https://www.guru99.com/angularjs-events.html
+ 
+### Lesson 15
+AngularJS Routing with Parameters
+https://www.guru99.com/angularjs-routes.html
+ 
+## Day 6
+
+### Lesson 16
+AngularJS AJAX Call using $resource, $http [Example]
+https://www.guru99.com/angularjs-http-ajax.html
+ 
+### Lesson 17
+AngularJS Table: Sort, OrderBy & Uppercase Filter [Examples]
+https://www.guru99.com/angular-table.html
+ 
+### Lesson 18
+AngularJS Form Validation
+https://www.guru99.com/angularjs-validation.html
+ 
+### Lesson 19
+AngularJS Form Submit
+https://www.guru99.com/angularjs-ng-submit.html
