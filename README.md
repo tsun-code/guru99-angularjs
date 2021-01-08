@@ -89,3 +89,21 @@ https://www.guru99.com/angularjs-validation.html
 ### Lesson 19
 AngularJS Form Submit
 https://www.guru99.com/angularjs-ng-submit.html
+
+## Day 7
+
+### Lesson 20
+ng-include in AngularJS – Learn in 10 Minutes!
+https://www.guru99.com/ng-include-angularjs.html
+ 
+### Lesson 21
+AngularJS - Dependency Injection
+https://www.guru99.com/angularjs-dependency-injection.html
+ 
+### Lesson 22
+AngularJS Unit Testing
+https://www.guru99.com/angularjs-testing-unit.html
+ 
+### Lesson 23
+Protractor Testing
+https://www.guru99.com/protractor-testing.html
