@@ -1,4 +1,4 @@
 angular.module('app',[]).controller('HelloWorldCtrl',function($scope)
 {
-	$scope.message = "Hello World"
+	$scope.message = "Hello World";
 });

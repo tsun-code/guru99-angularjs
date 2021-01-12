@@ -1,0 +1,30 @@
+{
+  "name": "guru99-angularjs",
+  "version": "1.0.0",
+  "description": "This repository is for recording the [7 Days AngularJS Tutorials](https://www.guru99.com/angularjs-tutorial.html) from Guru99.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "angular": "^1.8.2",
+    "angular-mocks": "^1.8.2",
+    "karma": "^5.2.3",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsun-code/guru99-angularjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsun-code/guru99-angularjs/issues"
+  },
+  "homepage": "https://github.com/tsun-code/guru99-angularjs#readme"
+}
