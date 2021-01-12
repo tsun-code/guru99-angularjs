@@ -107,3 +107,5 @@ https://www.guru99.com/angularjs-testing-unit.html
 ### Lesson 23
 Protractor Testing
 https://www.guru99.com/protractor-testing.html
+
+> Offical Protractor Tutorial Site: https://www.protractortest.org/#/tutorial
